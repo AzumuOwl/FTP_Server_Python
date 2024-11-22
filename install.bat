@@ -20,4 +20,4 @@ if %errorlevel% neq 0 (
 endlocal
 
 echo Installing required Python libraries...
-pip install pip install pyftpdlib
+pip install pyftpdlib
